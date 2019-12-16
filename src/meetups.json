@@ -1,0 +1,68 @@
+{
+    "meetups":
+    [
+        {
+            "time": "2019/12/18 19:00",
+            "title": "#15 @ 五倍紅寶石出礦坑",
+            "address": "台北市中正區衡陽路7號5樓",
+            "speaker": "Evan Lin、Caesar Chi、李小胖",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-015"
+        },
+        {
+            "time": "2019/11/27 19:30",
+            "title": "#14 @ OnrampLab Studio",
+            "address": "台北市信義區基隆路一段398號3樓號",
+            "speaker": "Evan Lin、C. T Lin、NiJia",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-014"
+        },
+        {
+            "time": "2019/10/22 19:00",
+            "title": "#13 @ 台北商業大學",
+            "address": "台北市中正區濟南路一段321號",
+            "speaker": "Evan Lin、郭佳甯",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-013"
+        },
+        {
+            "time": "2019/09/17 19:00",
+            "title": "12 @ 天瓏書局 Coding Spaceo",
+            "address": "台北市中正區重慶南路一段105號",
+            "speaker": "Wolke Lin",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-012"
+        },
+        {
+            "time": "2019/07/23 19:00",
+            "title": "11 @ 天瓏書局 Coding Space",
+            "address": "台北市中正區重慶南路一段105號",
+            "speaker": "Evan Lin、Wolke、Richard Lee",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-011"
+        },
+        {
+            "time": "2019/06/28 19:00",
+            "title": "10 @ 天瓏書局 Coding Space",
+            "address": "台北市中正區重慶南路一段105號",
+            "speaker": "Evan Lin、Caesar Chi、CL Sung",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-010"
+        },
+        {
+            "time": "2019/04/12 19:00",
+            "title": "9 @ 天瓏書局 Coding Space",
+            "address": "台北市中正區重慶南路一段105號",
+            "speaker": "Evan Lin、張揚翔、David 董",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-009"
+        },
+        {
+            "time": "2019/02/25 19:00",
+            "title": "8 @ Line",
+            "address": "台北市內湖區瑞光路610號",
+            "speaker": "Evan Lin、張揚翔、郭佳甯、NiJia",
+            "kktix_link": "https://chatbots.kktix.cc/events/meetup-008"
+        },
+        {
+            "time": "2018/10/05 18:30",
+            "title": "6.5",
+            "address": "台北市中正區重慶南路一段105號",
+            "speaker": "Evan Lin、郭佳甯、張揚翔",
+            "kktix_link": "https://chatbots.kktix.cc/events/0d69ab76-copy-1"
+        }
+    ]
+}

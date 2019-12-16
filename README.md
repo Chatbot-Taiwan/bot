@@ -1,53 +1,36 @@
-This project was bootstrapped with
-[Bottender](https://github.com/Yoctol/bottender) init script.
+# Chatbot-Taiwan bot
+A chatbot from the Chatbot Taiwan community.❤️
 
-## Sending Feedback
+## Prerequisites
+If you want to use the LINE chatbot, Please go to [LINE Developers](https://developers.line.biz/) to register an account, and get `Channel secret` and `Channel access token`, and fill in `.env` (`LINE_CHANNEL_SECRET` and `LINE_ACCESS_TOKEN`)
 
-Always feel free to open issue to
-[Bottender](https://github.com/Yoctol/bottender/issues).
+## Installing
+The chatbot is built with Bottender.
 
-## Folder Structure
+First, run `npm install` to install the dependency package.
 
-After creation, your project should look like this:
+Then, run `tsc -w` to compile typescript files to /disc folder.
 
-```
-my-bot/
-  .gitignore
-  node_modules/
-  bottender.config.js
-  index.js
-  package.json
-  README.md
-  yarn.lock
-```
+At last run `npm start` in production mode or `npm run dev` in development mode
 
-### index.js
+Finally, you are ready to interact with your bot :)
 
-All functionalities start from here.\
-Mainly it's a server which listen on port 5000. You are encouraged to add more [event listener](https://bottender.js.org/docs/APIReference-Event?new)
-and [`Handler`](https://bottender.js.org/docs/APIReference-Handler?new) to enrich the bot.
+## Running the tests
+TODO...
 
-See more examples, please refer to
-[Bottender examples](https://github.com/Yoctol/bottender/tree/master/examples).
+## TODO
+* function list
+* Ask questions in meetup
+* Facebook link
+* Chatbot Taiwan introduction
+* OCF link
 
-### bottender.config.js
+## Built With
+[Bottender](https://github.com/yoctol/bottender) - A framework for building conversational user interfaces.
+[TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. 
 
-The config file for the bot.\
-We suggests you to put all platform configs into this file and use it as a parameter
-of createServer.
+## Contributing
+[NiJia](https://nijialin.com/), [Eric](https://ericwu.asia/)
 
-## Available Scripts
-
-There are two default scripts you can run:
-
-### `npm run dev`
-
-Run the bot in the development mode.\
-It will automatically restart the bot if there are any changes in `index.js`.\
-For more information, check [nodemon's repo](https://github.com/remy/nodemon)
-
-### `npm start`
-
-Run the bot without being monitored.\
-The bot won't be restarted when you change anything in `index.js`
-# bot
+## Authors
+Chatbot Taiwan Community❤️

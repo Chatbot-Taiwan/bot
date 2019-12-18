@@ -38,6 +38,46 @@ async function Home(context: any) {
                 type: 'bubble',
                 hero: {
                     type: 'image',
+                    url:'https://i.imgur.com/EObr7Le.png',
+                    size: 'full',
+                    aspectRatio: '20:13',
+                },
+                body: {
+                    type: 'box',
+                    layout: 'vertical',
+                    contents: [
+                        {
+                            type: 'text',
+                            margin: 'sm',
+                            text: '小聚資訊',
+                            weight: 'bold',
+                            size: 'lg',
+                        },
+                        {
+                            type: "button",
+                            style: "link",
+                            action: {
+                                type: "message",
+                                label: "最新小聚",
+                                text: "最新小聚"
+                            }
+                        },
+                        {
+                            type: "button",
+                            style: "link",
+                            action: {
+                                type: "message",
+                                label: "歷史小聚",
+                                text: "歷史小聚"
+                            }
+                        }
+                    ],
+                }
+            },
+            {
+                type: 'bubble',
+                hero: {
+                    type: 'image',
                     url:'https://i.imgur.com/nGDIJig.png',
                     size: 'full',
                     aspectRatio: '20:13',
